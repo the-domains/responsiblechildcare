@@ -1,0 +1,28 @@
+name: ResponsibleChildCare
+favicon: null
+layout_spectrum: 0.05407663178630173
+typography_spectrum: 0.8737229362595826
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15512122074142098
+  lightness: 0.06929552741348743
+  saturation: 0.344290780602023
+  rhythmicContrast: 0.46062696259468794
+purpose: []

@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Here's a quiz to find out how much you know about the seriousness of a child’s illness. "
-datePublished: '2016-04-29T10:05:47.763Z'
-dateModified: '2016-04-29T10:05:21.326Z'
+datePublished: '2016-04-29T10:08:57.238Z'
+dateModified: '2016-04-29T10:08:25.943Z'
 title: When to rush your child to a hospital
 author: []
 sourcePath: _posts/2016-04-29-when-to-rush-your-child-to-a-hospital.md
@@ -38,23 +38,23 @@ D. Severe cough.
 
 ................................................................................................................
 
-What's the correct answer? Read on.
+What's the correct answer? _Read on_.
 
-Is refusing to eat an emergency?
+_Is refusing to eat an emergency?_
 
 Disease comes with no appetite. There are exceptions, but, there is no disease where you have a large appetite. When there is no disease and, yet, your child has no appetite, what can be the cause? Most commonly, it means his stomach is full. Children don't eat because they're not hungry.
 
-Is high fever an emergency?
+_Is high fever an emergency?_
 
 You can get trivial illnesses, too, with high fever: we all get high fever with a simple flu. At times, 'no fever' too can be an emergency. Fever, by itself, tells us nothing much. 
 
 High fever may not be an emergency. Sometimes it may be, sometimes not. We must, therefore, look at other signs before we say fever is emergency or 'no fever' is an emergency.
 
-Is severe cough an emergency? 
+_Is severe cough an emergency? _
 
 Some coughs may be an emergency, but not all. We have to study specific aspects of the cough and determine which cough is an emergency.
 
-Is incessant crying an emergency?
+_Is incessant crying an emergency?_
 
 Incessant crying means you are not able to manage the child's crying. You have tried everything: pick him up, take him out, offer him something: but he refuses to budge and continues to cry. Generally, your measures to console a child don't fail if the cause is trivial. Even though he cries, he eventually comes around. When he doesn't come around, that is incessant crying.
 
@@ -77,7 +77,7 @@ Regardless of cause of illness, observe your child for four signs of emergency:
 
 ****
 
-Change in behaviour is an emergency.
+**Change in behaviour is an emergency.**
 
 Dr. Amdekar: Change in behaviour is what we want you to sense. Be especially alert to notice any form of incessant behavior. What is an incessant behaviour? It's a sudden change of behaviour that you cannot explain. 
 
@@ -101,9 +101,7 @@ Any time you find a change in your child's behaviour: Somebody may be suddenly a
 
 In a high fever, a bad cough, a bad diarrhoea, a mother would know: "Oh! He was never so different, but today I feel he's something different." 
 
-That feeling of the mother is an emergency
-
-. Rush to the doctor, and let the doctor take care of it.
+That feeling of the mother is an emergency. Rush to the doctor, and let the doctor take care of it.
 
 ****
 
@@ -115,13 +113,15 @@ With fever, the commonest complaint seen in children, you need to judge change i
 
 ****
 
+**Urine not passed.**
+
 Not passing urine for several hours (if it is unusual of your child) is an emergency.
 
 Dr. Amdekar: How do you check whether the child has passed urine sufficiently? There's no magic figure: "So many times in so many hours." It will depend on the child's age or even the weather. Still, you can judge whether he has passed urine sufficiently or not by comparing his urine output with his routine frequency of passing urine. If he has not passed urine for a long time, that could be a sign of an emergency. 
 
 ****
 
-Fast breathing, skin rash, intolerable pain or crying. 
+**Fast breathing, skin rash, intolerable pain or crying. **
 
 Dr. Amdekar: Look at the breathing rate of the child. Fast breathing or rapid breathing may be an emergency. 
 

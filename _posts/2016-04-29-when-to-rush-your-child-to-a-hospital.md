@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Here's a quiz to find out how much you know about the seriousness of a child’s illness. "
-datePublished: '2016-04-29T10:10:23.072Z'
-dateModified: '2016-04-29T10:09:21.264Z'
+datePublished: '2016-04-29T10:11:05.834Z'
+dateModified: '2016-04-29T10:10:36.141Z'
 title: When to rush your child to a hospital
 author: []
 sourcePath: _posts/2016-04-29-when-to-rush-your-child-to-a-hospital.md

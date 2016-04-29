@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: "Here's a quiz to find out how much you know about the seriousness of a child’s illness. "
-datePublished: '2016-04-29T10:08:57.238Z'
-dateModified: '2016-04-29T10:08:25.943Z'
+datePublished: '2016-04-29T10:10:23.072Z'
+dateModified: '2016-04-29T10:09:21.264Z'
 title: When to rush your child to a hospital
 author: []
 sourcePath: _posts/2016-04-29-when-to-rush-your-child-to-a-hospital.md
@@ -135,7 +135,7 @@ Lastly, pay attention to incessant crying. Because an older child can speak, he 
 
 ****
 
-Unexpected new symptoms in a standard illness (example: fast breathing in diarrhoea).
+**Unexpected new symptoms in a standard illness (example: fast breathing in diarrhoea).**
 
 Watch out for an unexpected new symptom in a standard illness. Imagine a child has seasonal cough, cold, fever: You know that cough, cold and fever are three things that go hand in hand. But, if this child suddenly changes behaviour -- becomes drowsy or irritable -- you did not expect cough, cold and fever to end up in that. Or, suddenly, the child has a distended tummy. You didn't expect that to happen with a cough, cold, fever. If something like these happen out of the blue, then you must get worried. 
 
